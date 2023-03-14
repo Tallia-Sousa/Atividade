@@ -84,37 +84,6 @@ footer {
     width: 100vw;
     font-family: "Open Sans";
     border-bottom: -200px;
-    color: #fffffe;
-}
-.footer-principal {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-}
-
-.socials {
-    list-style: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 2rem 0 3rem 0;
-}
-.socials li {
-    margin: 0 10px;
-}
-.socials a {
-    text-decoration: none;
-    color: #fffffe;
-}
-.socials a i {
-    font-size: 1.1rem;
-    transition: color .4s ease;
-
-}
-.socials a:hover i {
-    color: rgb(60, 84, 151);
 }
 
 .footer-final {
