@@ -22,7 +22,8 @@ body{
 .logo i{
 	height: 35px;
     width: 31px;
-    background: rgb(173,220,220);
+    background:rgb(173,220,220);
+    color:#5700d5;
     border-radius: 50%;
     display: inline-flex;
     align-items: center;
